@@ -12,7 +12,7 @@
 
 ## Description
 
-
+The goal of this assignment is to create a daily planner that spans throughout a standard work day (9am to 5pm). The user will be able to add events into hourly blocks which can be edited if and when the user pleases. These events can be saved by clicking on the save button which will be stored in local storage. Each hourly block is color coded to signify whether that hour is in the past, present, or future. This is made possilbe by the use of [Moment.js](https://momentjs.com/) which is a JavaScrpit library that helps display the date and time.
 
 ## GitHub Repository and Page
 
@@ -41,10 +41,7 @@ To view the completed project, visit my [GitHub Page](https://nayrsicnarf.github
 
 ## Screenshot
 
-![Timed Coding Quiz - Main](/Assets/images/tcq-main.png)
-![Time Coding Quiz - Question](/Assets/images/tcq-question.png)
-![Timed Coding Quiz - Done](/Assets/images/tcq-done.png)
-![Timed Coding Quiz - High Score](/Assets/images/tcq-hs.png)
+![Work Day Scheduler](Assets/images/workday-screenshot.png)
 
 ## Credits
 
